@@ -50,7 +50,7 @@ Halo! Saya **Khaizuran Arkan Hermawan**, siswa kelas 10 di **SMK IDN Boarding Sc
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/khaizuran-arkan" target="_blank">
+  <a href="https://github.com/khaizuranarkan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="#" target="_blank">
@@ -70,6 +70,6 @@ Halo! Saya **Khaizuran Arkan Hermawan**, siswa kelas 10 di **SMK IDN Boarding Sc
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=khaizuran-arkan&style=for-the-badge&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=khaizuranarkan&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
