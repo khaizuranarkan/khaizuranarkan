@@ -31,7 +31,12 @@ Halo! Saya **Khaizuran Arkan Hermawan**, siswa kelas 10 di **SMK IDN Boarding Sc
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaizuranarkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaizuranarkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaizuranarkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
 </p>
 
 ---
@@ -45,10 +50,10 @@ Halo! Saya **Khaizuran Arkan Hermawan**, siswa kelas 10 di **SMK IDN Boarding Sc
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/khaizuranarkan" target="_blank">
+  <a href="https://github.com/khaizuran-arkan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/khzrn.arkan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="#" target="_blank">
